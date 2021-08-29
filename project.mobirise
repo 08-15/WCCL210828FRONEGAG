@@ -58,7 +58,7 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "mbrsiteDomain": "ocoizkfaip",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
